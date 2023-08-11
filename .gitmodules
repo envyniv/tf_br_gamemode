@@ -1,0 +1,3 @@
+[submodule "scripts/vscripts/tf_vscript_friendlyfire"]
+	path = scripts/vscripts/tf_vscript_friendlyfire
+	url = https://github.com/envyniv/tf_vscript_friendlyfire
